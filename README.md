@@ -1,5 +1,5 @@
 
-# Project Title
+# Java Conversor De Monedas
 
 Este Proyecto fue echo para el Challenge ONE
 Back End - Java propuesto por alura latam + ORACLE ONE, 
@@ -23,5 +23,6 @@ Recordando que también debe ser posible convertir inversamente, es decir:
         - Convertir de Yen Japonés a la moneda de tu país
         - Convertir de Won sul-coreano a la moneda de tu país
 
+![Logo](AluraConversorMoneda_Trim (1).gif)
 
 
