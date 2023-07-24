@@ -23,7 +23,9 @@ Recordando que también debe ser posible convertir inversamente, es decir:
         - Convertir de Yen Japonés a la moneda de tu país
         - Convertir de Won sul-coreano a la moneda de tu país
 
-![Descripción del gif](AluraConversorMoneda_Trim%20(1).gif)
+<p align="center">
+  <img src="AluraConversorMoneda_Trim%20(1).gif" alt="Descripción del gif">
+</p>
 
 
 
