@@ -2,7 +2,7 @@
 # Java Conversor De Monedas
 
 Este Proyecto fue echo para el Challenge ONE
-Back End - Java propuesto por alura latam + ORACLE ONE, 
+Back End - Java propuesto por alura latam + ORACLE ORACLE NEXT, 
 
 En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas por nuestro cliente son las siguientes:
 
